@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bzamek
+- 👀 I’m interested in learning to code.
+- 🌱 I’m currently learning by taking the Coursera IBM Full Stack Web Developer course.
+- 💞️ I’m looking to collaborate with others who are taking this course at the same time OR those who have already completed it.
+- 📫 How to reach me bzamek@gmail.com
